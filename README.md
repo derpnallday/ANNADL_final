@@ -1,5 +1,3 @@
 # ANNADL Final Project
 
-Takes a spreadsheet of tweets and attempts to classify them into source labels based on text content.
-
-Usage:
+You can read about the project here https://medium.com/@nathan_siu/whos-really-behind-trump-s-tweets-a76b20a7e7
